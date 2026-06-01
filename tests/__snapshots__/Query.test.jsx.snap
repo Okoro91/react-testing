@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Query component > matches the snapshot 1`] = `
+<div>
+  <div
+    id="app"
+  >
+    <label
+      for="username-input"
+    >
+      Username
+    </label>
+    <input
+      id="username-input"
+    />
+    <div>
+      Hello World
+    </div>
+  </div>
+</div>
+`;
